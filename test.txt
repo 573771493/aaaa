@@ -1,1 +1,4 @@
 1122a
+
+
+git has a mutable index called stage
