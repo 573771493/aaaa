@@ -6,3 +6,5 @@ git has a mutable index called stage
 adasdad
 
 git trace change
+
+git change after add but not commit
